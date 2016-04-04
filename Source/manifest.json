@@ -1,11 +1,11 @@
 {
 	"manifest_version": 2,
 
-	"name": "Millennials to Snake People",
-    "short_name": "Snake People",
-	"description": "Replaces the text 'Millennial' with 'Snake People'.",
-	"author": "Eric Bailey",
-	"version": "1.7",
+	"name": "Digital to Finger",
+    "short_name": "d2f",
+	"description": "Replaces the text 'Digital' with 'Finger'.",
+	"author": "Justin Warren",
+	"version": "1.0",
 
 	"icons": {
 		"16": "icon16.png",
